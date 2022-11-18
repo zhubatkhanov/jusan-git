@@ -1,6 +1,7 @@
 # stepik-id-printer
 ---
 Это проект для вывода моего персонального идентификатора на образовательной платформе [`stepik.org`](https://stepik.org) <br/>
+Script username.sh outputs name and surname
 ## Возможности
 ---
 Данный проект имеет следующий функционал. <br/>
