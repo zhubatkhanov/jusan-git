@@ -1,4 +1,6 @@
 # stepik-id-printer
+![Logo Jusan](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/)
+[Jusan Logo URL](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/)
 ---
 Это проект для вывода моего персонального идентификатора на образовательной платформе [`stepik.org`](https://stepik.org) <br/>
 Script username.sh outputs name and surname
